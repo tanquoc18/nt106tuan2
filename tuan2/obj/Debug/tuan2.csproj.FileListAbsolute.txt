@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\tuan2\tuan2\bin\Debug\tuan2.exe.config
+C:\Users\PC\source\repos\tuan2\tuan2\bin\Debug\tuan2.exe
+C:\Users\PC\source\repos\tuan2\tuan2\bin\Debug\tuan2.pdb
+C:\Users\PC\source\repos\tuan2\tuan2\obj\Debug\tuan2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\tuan2\tuan2\obj\Debug\tuan2.Form1.resources
+C:\Users\PC\source\repos\tuan2\tuan2\obj\Debug\tuan2.Properties.Resources.resources
+C:\Users\PC\source\repos\tuan2\tuan2\obj\Debug\tuan2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\tuan2\tuan2\obj\Debug\tuan2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\tuan2\tuan2\obj\Debug\tuan2.exe
+C:\Users\PC\source\repos\tuan2\tuan2\obj\Debug\tuan2.pdb
