@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Sever\Client\bin\Debug\Client.exe.config
+C:\Users\HP\source\repos\Sever\Client\bin\Debug\Client.exe
+C:\Users\HP\source\repos\Sever\Client\bin\Debug\Client.pdb
+C:\Users\HP\source\repos\Sever\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sever\Client\obj\Debug\Client.Form1.resources
+C:\Users\HP\source\repos\Sever\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\HP\source\repos\Sever\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Sever\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sever\Client\obj\Debug\Client.exe
+C:\Users\HP\source\repos\Sever\Client\obj\Debug\Client.pdb

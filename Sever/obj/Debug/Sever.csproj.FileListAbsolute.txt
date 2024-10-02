@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Sever\Sever\bin\Debug\Sever.exe.config
+C:\Users\HP\source\repos\Sever\Sever\bin\Debug\Sever.exe
+C:\Users\HP\source\repos\Sever\Sever\bin\Debug\Sever.pdb
+C:\Users\HP\source\repos\Sever\Sever\obj\Debug\Sever.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sever\Sever\obj\Debug\Sever.Form1.resources
+C:\Users\HP\source\repos\Sever\Sever\obj\Debug\Sever.Properties.Resources.resources
+C:\Users\HP\source\repos\Sever\Sever\obj\Debug\Sever.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Sever\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sever\Sever\obj\Debug\Sever.exe
+C:\Users\HP\source\repos\Sever\Sever\obj\Debug\Sever.pdb
