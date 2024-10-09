@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\bin\Debug\TCPPrivateChat.exe.config
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\bin\Debug\TCPPrivateChat.exe
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\bin\Debug\TCPPrivateChat.pdb
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\obj\Debug\TCPPrivateChat.Properties.Resources.resources
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\obj\Debug\TCPPrivateChat.exe
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\obj\Debug\TCPPrivateChat.pdb
+C:\Users\PC\source\repos\TCPPrivateChat\TCPPrivateChat\obj\Debug\TCPPrivateChat.Form1.resources
