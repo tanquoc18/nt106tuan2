@@ -585,6 +585,27 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "VNC/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "VncSharp": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VNC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VNC.dll": {}
+        }
+      },
+      "VncSharp/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/VncSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VncSharp.dll": {}
+        }
       }
     }
   },
@@ -1679,27 +1700,44 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "VNC/1.0.0": {
+      "type": "project",
+      "path": "../../../VNC (1)/VNC/VNC/VNC.csproj",
+      "msbuildProject": "../../../VNC (1)/VNC/VNC/VNC.csproj"
+    },
+    "VncSharp/1.0.0": {
+      "type": "project",
+      "path": "../../../VNC (1)/VNC/VncSharp-master/VncSharp/VncSharp.csproj",
+      "msbuildProject": "../../../VNC (1)/VNC/VncSharp-master/VncSharp/VncSharp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "Microsoft.Data.SqlClient >= 5.2.2"
+      "Microsoft.Data.SqlClient >= 5.2.2",
+      "VNC >= 1.0.0",
+      "VncSharp >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cao Sang\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repo source\\Do_an\\Do_an\\Do_an.csproj",
+      "projectUniqueName": "D:\\DOAN\\NT106_Group7\\Do_an\\Do_an.csproj",
       "projectName": "Do_an",
-      "projectPath": "D:\\repo source\\Do_an\\Do_an\\Do_an.csproj",
-      "packagesPath": "C:\\Users\\Cao Sang\\.nuget\\packages\\",
-      "outputPath": "D:\\repo source\\Do_an\\Do_an\\obj\\",
+      "projectPath": "D:\\DOAN\\NT106_Group7\\Do_an\\Do_an.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\DOAN\\NT106_Group7\\Do_an\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Cao Sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1712,7 +1750,14 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\VNC (1)\\VNC\\VncSharp-master\\VncSharp\\VncSharp.csproj": {
+              "projectPath": "D:\\VNC (1)\\VNC\\VncSharp-master\\VncSharp\\VncSharp.csproj"
+            },
+            "D:\\VNC (1)\\VNC\\VNC\\VNC.csproj": {
+              "projectPath": "D:\\VNC (1)\\VNC\\VNC\\VNC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1723,8 +1768,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1754,7 +1800,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
 
   <ItemGroup>
@@ -30,6 +31,11 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\VNC (1)\VNC\VncSharp-master\VncSharp\VncSharp.csproj" />
+    <ProjectReference Include="..\..\..\VNC (1)\VNC\VNC\VNC.csproj" />
   </ItemGroup>
 
   <ItemGroup>
