@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
 
   <ItemGroup>
@@ -34,8 +34,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\VNC (1)\VNC\VncSharp-master\VncSharp\VncSharp.csproj" />
-    <ProjectReference Include="..\..\..\VNC (1)\VNC\VNC\VNC.csproj" />
+	  <ProjectReference Include="..\..\..\New folder\NT106_Group7\VncSharp-master\VncSharp\VncSharp.csproj" />
+	  <ProjectReference Include="..\..\..\New folder\NT106_Group7\VNC\VNC.csproj" />
+	  <ProjectReference Include="..\Client\Client.csproj" />
   </ItemGroup>
 
   <ItemGroup>

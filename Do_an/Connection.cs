@@ -10,7 +10,7 @@ namespace Do_an
 {
     internal class Connection
     {
-        private static string stringConnection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\DOAN\NT106_Group7\Do_an\Database1.mdf;Integrated Security=True";
+        private static string stringConnection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\mang\New folder\NT106_Group7\Do_an\Database1.mdf"";Integrated Security=True";
         public static SqlConnection GetSqlConnection()
         {
             return new SqlConnection(stringConnection);
