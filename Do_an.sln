@@ -5,9 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do_an", "Do_an\Do_an.csproj", "{118C611F-EA6B-4F02-A95E-EF24BACBF82C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VncSharp", "..\..\VNC (1)\VNC\VncSharp-master\VncSharp\VncSharp.csproj", "{E0695F0F-0FAF-44BC-AE55-A1FCBFE70271}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VncSharp", "VncSharp-master\VncSharp\VncSharp.csproj", "{E0695F0F-0FAF-44BC-AE55-A1FCBFE70271}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNC", "..\..\VNC (1)\VNC\VNC\VNC.csproj", "{4280CFC7-E9DC-46E2-8F23-7CFEE4B0433C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNC", "VNC\VNC.csproj", "{4280CFC7-E9DC-46E2-8F23-7CFEE4B0433C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
