@@ -1,38 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj": {}
+    "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj": {}
   },
   "projects": {
-    "D:\\Do-An\\NT106_Group7\\Client\\Client.csproj": {
+    "D:\\New folder\\New folder\\NT106_Group7\\Client\\Client.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Do-An\\NT106_Group7\\Client\\Client.csproj",
+        "projectUniqueName": "D:\\New folder\\New folder\\NT106_Group7\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "D:\\Do-An\\NT106_Group7\\Client\\Client.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net48": {
-            "projectReferences": {
-              "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj": {
-                "projectPath": "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj"
-              },
-              "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj": {
-                "projectPath": "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
-    "D:\\Do-An\\NT106_Group7\\CUOICUNG\\Server.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\Do-An\\NT106_Group7\\CUOICUNG\\Server.csproj",
-        "projectName": "Server",
-        "projectPath": "D:\\Do-An\\NT106_Group7\\CUOICUNG\\Server.csproj",
-        "UsingMicrosoftNETSdk": false,
+        "projectPath": "D:\\New folder\\New folder\\NT106_Group7\\Client\\Client.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -43,20 +19,35 @@
         "net472": {}
       }
     },
-    "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj": {
+    "D:\\New folder\\New folder\\NT106_Group7\\CUOICUNG\\Server.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\New folder\\New folder\\NT106_Group7\\CUOICUNG\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "D:\\New folder\\New folder\\NT106_Group7\\CUOICUNG\\Server.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj",
+        "projectUniqueName": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj",
         "projectName": "Do_an",
-        "projectPath": "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Do-An\\NT106_Group7\\Do_an\\obj\\",
+        "projectPath": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj",
+        "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,17 +62,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Do-An\\NT106_Group7\\Client\\Client.csproj": {
-                "projectPath": "D:\\Do-An\\NT106_Group7\\Client\\Client.csproj"
+              "D:\\New folder\\New folder\\NT106_Group7\\Client\\Client.csproj": {
+                "projectPath": "D:\\New folder\\New folder\\NT106_Group7\\Client\\Client.csproj"
               },
-              "D:\\Do-An\\NT106_Group7\\CUOICUNG\\Server.csproj": {
-                "projectPath": "D:\\Do-An\\NT106_Group7\\CUOICUNG\\Server.csproj"
-              },
-              "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj": {
-                "projectPath": "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj"
-              },
-              "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj": {
-                "projectPath": "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj"
+              "D:\\New folder\\New folder\\NT106_Group7\\CUOICUNG\\Server.csproj": {
+                "projectPath": "D:\\New folder\\New folder\\NT106_Group7\\CUOICUNG\\Server.csproj"
               }
             }
           }
@@ -94,9 +79,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -126,44 +110,8 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj",
-        "projectName": "VncSharp",
-        "projectPath": "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
-    "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj",
-        "projectName": "VNC",
-        "projectPath": "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net48": {
-            "projectReferences": {
-              "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj": {
-                "projectPath": "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
       }
     }
   }

@@ -1,52 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Do-An\\NT106_Group7\\",
+  "WorkspaceRootPath": "D:\\New folder\\New folder\\NT106_Group7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\do-an\\nt106_group7\\do_an\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\new folder\\new folder\\nt106_group7\\do_an\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|D:\\Do-An\\NT106_Group7\\do_an\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{05613BF1-EDAA-46A6-A0D5-728E6C56AA1C}|Client\\Client.csproj|d:\\new folder\\new folder\\nt106_group7\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05613BF1-EDAA-46A6-A0D5-728E6C56AA1C}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|D:\\New folder\\New folder\\NT106_Group7\\do_an\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\do-an\\nt106_group7\\do_an\\do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\new folder\\new folder\\nt106_group7\\do_an\\do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\do-an\\nt106_group7\\do_an\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\new folder\\new folder\\nt106_group7\\do_an\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\do-an\\nt106_group7\\do_an\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\new folder\\new folder\\nt106_group7\\do_an\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|D:\\Do-An\\NT106_Group7\\do_an\\quenmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|D:\\New folder\\New folder\\NT106_Group7\\do_an\\quenmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\quenmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\do-an\\nt106_group7\\do_an\\do_an.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\new folder\\new folder\\nt106_group7\\do_an\\do_an.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\do_an.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__REPO_SOURCE_DO_AN_DO_AN_DATABASE1.MDF/True/SqlTable/dbo.TaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\do-an\\nt106_group7\\do_an\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\new folder\\new folder\\nt106_group7\\do_an\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|D:\\Do-An\\NT106_Group7\\do_an\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|D:\\New folder\\New folder\\NT106_Group7\\do_an\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|D:\\Do-An\\NT106_Group7\\do_an\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|D:\\New folder\\New folder\\NT106_Group7\\do_an\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\do-an\\nt106_group7\\do_an\\quenmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|d:\\new folder\\new folder\\nt106_group7\\do_an\\quenmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118C611F-EA6B-4F02-A95E-EF24BACBF82C}|Do_an\\Do_an.csproj|solutionrelative:do_an\\quenmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -57,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 234,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,11 +69,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "D:\\New folder\\New folder\\NT106_Group7\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:06:51.992Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Do_an.csproj",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj",
               "RelativeDocumentMoniker": "Do_an\\Do_an.csproj",
-              "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj",
+              "ToolTip": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj",
               "RelativeToolTip": "Do_an\\Do_an.csproj",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -79,40 +95,40 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.cs",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\Home.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Home.cs",
               "RelativeDocumentMoniker": "Do_an\\Home.cs",
-              "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\Home.cs",
+              "ToolTip": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Home.cs",
               "RelativeToolTip": "Do_an\\Home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwB0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T03:51:10.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.cs [Design]",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\Home.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Home.cs",
               "RelativeDocumentMoniker": "Do_an\\Home.cs",
               "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\Home.cs [Design]",
-              "RelativeToolTip": "Do_an\\Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Do-An\\NT106_Group7\\Do_an\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T03:40:43.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Connection.cs",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\Connection.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Connection.cs",
               "RelativeDocumentMoniker": "Do_an\\Connection.cs",
-              "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\Connection.cs",
+              "ToolTip": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Connection.cs",
               "RelativeToolTip": "Do_an\\Connection.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T03:37:06.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "dbo.TaiKhoan.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__REPO_SOURCE_DO_AN_DO_AN_DATABASE1.MDF/True/SqlTable/dbo.TaiKhoan.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__REPO_SOURCE_DO_AN_DO_AN_DATABASE1.MDF/True/SqlTable/dbo.TaiKhoan.sql",
@@ -121,11 +137,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\Form1.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Form1.cs",
               "RelativeDocumentMoniker": "Do_an\\Form1.cs",
-              "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\Form1.cs",
+              "ToolTip": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Form1.cs",
               "RelativeToolTip": "Do_an\\Form1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T06:30:34.539Z",
@@ -133,44 +149,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Do_an",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj",
               "RelativeDocumentMoniker": "Do_an\\Do_an.csproj",
-              "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj",
+              "ToolTip": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj",
               "RelativeToolTip": "Do_an\\Do_an.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-14T03:56:37.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "QuenMK.cs [Design]",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\QuenMK.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\QuenMK.cs",
               "RelativeDocumentMoniker": "Do_an\\QuenMK.cs",
               "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\QuenMK.cs [Design]",
-              "RelativeToolTip": "Do_an\\QuenMK.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Do-An\\NT106_Group7\\Do_an\\QuenMK.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T17:01:17.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DangKi.cs [Design]",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\DangKi.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\DangKi.cs",
               "RelativeDocumentMoniker": "Do_an\\DangKi.cs",
               "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\DangKi.cs [Design]",
-              "RelativeToolTip": "Do_an\\DangKi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Do-An\\NT106_Group7\\Do_an\\DangKi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T16:32:28.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DangKi.cs",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\DangKi.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\DangKi.cs",
               "RelativeDocumentMoniker": "Do_an\\DangKi.cs",
-              "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\DangKi.cs",
+              "ToolTip": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\DangKi.cs",
               "RelativeToolTip": "Do_an\\DangKi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,22 +194,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\Form1.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\Form1.cs",
               "RelativeDocumentMoniker": "Do_an\\Form1.cs",
               "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\Form1.cs [Design]",
-              "RelativeToolTip": "Do_an\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Do-An\\NT106_Group7\\Do_an\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T17:01:26.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "QuenMK.cs",
-              "DocumentMoniker": "D:\\Do-An\\NT106_Group7\\Do_an\\QuenMK.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\QuenMK.cs",
               "RelativeDocumentMoniker": "Do_an\\QuenMK.cs",
-              "ToolTip": "D:\\Do-An\\NT106_Group7\\Do_an\\QuenMK.cs",
+              "ToolTip": "D:\\New folder\\New folder\\NT106_Group7\\Do_an\\QuenMK.cs",
               "RelativeToolTip": "Do_an\\QuenMK.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAADgvyYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

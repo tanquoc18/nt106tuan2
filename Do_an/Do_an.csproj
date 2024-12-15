@@ -36,8 +36,6 @@
   <ItemGroup>
 	  <ProjectReference Include="..\Client\Client.csproj" />
 	  <ProjectReference Include="..\CUOICUNG\Server.csproj" />
-	  <ProjectReference Include="..\VncSharp-master\VncSharp\VncSharp.csproj" />
-	  <ProjectReference Include="..\VNC\VNC.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -38,3 +38,13 @@ D:\Do-An\NT106_Group7\CUOICUNG\obj\Debug\Server.csproj.GenerateResource.cache
 D:\Do-An\NT106_Group7\CUOICUNG\obj\Debug\Server.csproj.CoreCompileInputs.cache
 D:\Do-An\NT106_Group7\CUOICUNG\obj\Debug\CUOICUNG.exe
 D:\Do-An\NT106_Group7\CUOICUNG\obj\Debug\CUOICUNG.pdb
+D:\New folder\New folder\NT106_Group7\CUOICUNG\bin\Debug\CUOICUNG.exe.config
+D:\New folder\New folder\NT106_Group7\CUOICUNG\bin\Debug\CUOICUNG.exe
+D:\New folder\New folder\NT106_Group7\CUOICUNG\bin\Debug\CUOICUNG.pdb
+D:\New folder\New folder\NT106_Group7\CUOICUNG\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\New folder\New folder\NT106_Group7\CUOICUNG\obj\Debug\CUOICUNG.Form1.resources
+D:\New folder\New folder\NT106_Group7\CUOICUNG\obj\Debug\CUOICUNG.Properties.Resources.resources
+D:\New folder\New folder\NT106_Group7\CUOICUNG\obj\Debug\Server.csproj.GenerateResource.cache
+D:\New folder\New folder\NT106_Group7\CUOICUNG\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\NT106_Group7\CUOICUNG\obj\Debug\CUOICUNG.exe
+D:\New folder\New folder\NT106_Group7\CUOICUNG\obj\Debug\CUOICUNG.pdb

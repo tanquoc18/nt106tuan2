@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CUOICUNG;
+using Client;
 namespace Do_an
 {
     public partial class Home : Form
@@ -27,7 +28,8 @@ namespace Do_an
 
         private void button2_Click(object sender, EventArgs e)
         {
-          
+            Client.Form1 form1 = new Client.Form1();
+            form1.ShowDialog();
         }
     }
 }

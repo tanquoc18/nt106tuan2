@@ -1,0 +1,50 @@
+D:\CUOICUNG\Client\bin\Debug\Client.exe.config
+D:\CUOICUNG\Client\bin\Debug\Client.exe
+D:\CUOICUNG\Client\bin\Debug\Client.pdb
+D:\CUOICUNG\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\CUOICUNG\Client\obj\Debug\Client.Form1.resources
+D:\CUOICUNG\Client\obj\Debug\Client.Properties.Resources.resources
+D:\CUOICUNG\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\CUOICUNG\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\CUOICUNG\Client\obj\Debug\Client.exe
+D:\CUOICUNG\Client\obj\Debug\Client.pdb
+D:\NTQ\CUOICUNG\Client\bin\Debug\Client.exe.config
+D:\NTQ\CUOICUNG\Client\bin\Debug\Client.exe
+D:\NTQ\CUOICUNG\Client\bin\Debug\Client.pdb
+D:\NTQ\CUOICUNG\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\NTQ\CUOICUNG\Client\obj\Debug\Client.Form1.resources
+D:\NTQ\CUOICUNG\Client\obj\Debug\Client.Properties.Resources.resources
+D:\NTQ\CUOICUNG\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\NTQ\CUOICUNG\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\NTQ\CUOICUNG\Client\obj\Debug\Client.exe
+D:\NTQ\CUOICUNG\Client\obj\Debug\Client.pdb
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\bin\Debug\Client.exe.config
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\bin\Debug\Client.exe
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\bin\Debug\Client.pdb
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\obj\Debug\Client.Form1.resources
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\obj\Debug\Client.exe
+C:\Users\ad\Documents\Zalo Received Files\CUOICUNG\Client\obj\Debug\Client.pdb
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\bin\Debug\Client.exe.config
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\bin\Debug\Client.exe
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\bin\Debug\Client.pdb
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\obj\Debug\Client.Form1.resources
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\obj\Debug\Client.exe
+C:\Users\PC\Downloads\CUOICUNG (6)\Client\obj\Debug\Client.pdb
+D:\New folder\New folder\NT106_Group7\Client\bin\Debug\Client.exe.config
+D:\New folder\New folder\NT106_Group7\Client\bin\Debug\Client.exe
+D:\New folder\New folder\NT106_Group7\Client\bin\Debug\Client.pdb
+D:\New folder\New folder\NT106_Group7\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\New folder\New folder\NT106_Group7\Client\obj\Debug\Client.Form1.resources
+D:\New folder\New folder\NT106_Group7\Client\obj\Debug\Client.Properties.Resources.resources
+D:\New folder\New folder\NT106_Group7\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\New folder\New folder\NT106_Group7\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\New folder\New folder\NT106_Group7\Client\obj\Debug\Client.exe
+D:\New folder\New folder\NT106_Group7\Client\obj\Debug\Client.pdb
