@@ -599,6 +599,15 @@
           "bin/placeholder/Client.dll": {}
         }
       },
+      "Server/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Server.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Server.dll": {}
+        }
+      },
       "VNC/1.0.0": {
         "type": "project",
         "dependencies": {
@@ -1719,6 +1728,11 @@
       "path": "../Client/Client.csproj",
       "msbuildProject": "../Client/Client.csproj"
     },
+    "Server/1.0.0": {
+      "type": "project",
+      "path": "../CUOICUNG/Server.csproj",
+      "msbuildProject": "../CUOICUNG/Server.csproj"
+    },
     "VNC/1.0.0": {
       "type": "project",
       "path": "../VNC/VNC.csproj",
@@ -1734,28 +1748,29 @@
     "net8.0-windows7.0": [
       "Client >= 1.0.0",
       "Microsoft.Data.SqlClient >= 5.2.2",
+      "Server >= 1.0.0",
       "VNC >= 1.0.0",
       "VncSharp >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ad\\.nuget\\packages\\": {},
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mang\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj",
+      "projectUniqueName": "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj",
       "projectName": "Do_an",
-      "projectPath": "D:\\mang\\New folder\\NT106_Group7\\Do_an\\Do_an.csproj",
-      "packagesPath": "C:\\Users\\ad\\.nuget\\packages\\",
-      "outputPath": "D:\\mang\\New folder\\NT106_Group7\\Do_an\\obj\\",
+      "projectPath": "D:\\Do-An\\NT106_Group7\\Do_an\\Do_an.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\Do-An\\NT106_Group7\\Do_an\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1770,14 +1785,17 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\mang\\New folder\\NT106_Group7\\Client\\Client.csproj": {
-              "projectPath": "D:\\mang\\New folder\\NT106_Group7\\Client\\Client.csproj"
+            "D:\\Do-An\\NT106_Group7\\Client\\Client.csproj": {
+              "projectPath": "D:\\Do-An\\NT106_Group7\\Client\\Client.csproj"
             },
-            "D:\\mang\\New folder\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj": {
-              "projectPath": "D:\\mang\\New folder\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj"
+            "D:\\Do-An\\NT106_Group7\\CUOICUNG\\Server.csproj": {
+              "projectPath": "D:\\Do-An\\NT106_Group7\\CUOICUNG\\Server.csproj"
             },
-            "D:\\mang\\New folder\\NT106_Group7\\VNC\\VNC.csproj": {
-              "projectPath": "D:\\mang\\New folder\\NT106_Group7\\VNC\\VNC.csproj"
+            "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj": {
+              "projectPath": "D:\\Do-An\\NT106_Group7\\VncSharp-master\\VncSharp\\VncSharp.csproj"
+            },
+            "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj": {
+              "projectPath": "D:\\Do-An\\NT106_Group7\\VNC\\VNC.csproj"
             }
           }
         }
@@ -1790,8 +1808,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1821,7 +1840,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

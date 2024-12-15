@@ -8,9 +8,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using VNC;
-using Client;
-
+using CUOICUNG;
 namespace Do_an
 {
     public partial class Home : Form
@@ -23,14 +21,13 @@ namespace Do_an
 
         private void button1_Click(object sender, EventArgs e)
         {
-            VncServerApp vncServerApp = new VncServerApp();
-            vncServerApp.ShowDialog();
+            CUOICUNG.Form1 form1 = new CUOICUNG.Form1();    
+            form1.ShowDialog();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Client.Form1 form1 = new Client.Form1();
-            form1.ShowDialog();
+          
         }
     }
 }

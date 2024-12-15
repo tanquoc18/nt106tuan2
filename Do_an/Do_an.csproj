@@ -34,9 +34,10 @@
   </ItemGroup>
 
   <ItemGroup>
-	  <ProjectReference Include="..\..\..\New folder\NT106_Group7\VncSharp-master\VncSharp\VncSharp.csproj" />
-	  <ProjectReference Include="..\..\..\New folder\NT106_Group7\VNC\VNC.csproj" />
 	  <ProjectReference Include="..\Client\Client.csproj" />
+	  <ProjectReference Include="..\CUOICUNG\Server.csproj" />
+	  <ProjectReference Include="..\VncSharp-master\VncSharp\VncSharp.csproj" />
+	  <ProjectReference Include="..\VNC\VNC.csproj" />
   </ItemGroup>
 
   <ItemGroup>
